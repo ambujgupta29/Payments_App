@@ -12,7 +12,7 @@ class AppColors {
   static const Color lightbodyText = Color(0xFF7E848D);
 
   // Dark Theme
-  static const Color darkBackground = Color(0xFF0C1229);
+  static const Color darkBackground = Color(0xFF161622);
   static const Color darkCardBackground = Color(0xFF1E1E2D);
   static const Color darkText = Colors.white;
   static const Color darkbodyText = Color(0xFF7E848D);

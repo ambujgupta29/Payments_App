@@ -17,6 +17,7 @@ class AppLocalizationText {
   static const String fullName = 'Full Name';
   static const String phoneNumber = 'Phone Number';
   static const String password = 'Password';
+  static const String welcomeBack = 'Welcome Back,';
   static const String imaNewUser = "I’m a new user.";
   static const String alreadyHaveAnAccount = "Already have an account.";
 }
